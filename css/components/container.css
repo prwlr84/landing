@@ -1,0 +1,9 @@
+.container{
+  width: 600px;
+  margin: auto;
+  line-height: 2;
+}
+
+.container h2{
+text-align: center;
+}
